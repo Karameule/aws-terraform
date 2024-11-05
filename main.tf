@@ -31,4 +31,3 @@ resource "aws_s3_bucket" "tf-state" {
     Environment = "Dev"
   }
 }
-
